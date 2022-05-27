@@ -15,5 +15,6 @@ Utilities: Some more linear algebra operations and printing functions.
 Every method is provided with a test function which performs the calculations on a given matrix. In the end, the function checks if the result is the same as the one we get from performing the same operations using a software like Matlab.
 
 Example: Test LL Factorization (a.k.a Cholesky Factorization)
+
 ![image](https://user-images.githubusercontent.com/90531367/170649727-f7fe0ceb-aa35-4e7b-934a-299d998115ee.png)
 
