@@ -16,5 +16,6 @@ Every method is provided with a test function which performs the calculations on
 
 Example: Test LL Factorization (a.k.a Cholesky Factorization)
 
-![image](https://user-images.githubusercontent.com/90531367/170649727-f7fe0ceb-aa35-4e7b-934a-299d998115ee.png)
+![image](https://user-images.githubusercontent.com/90531367/170649727-f7fe0ceb-aa35-4e7b-934a-299d998115ee.png) ![image](https://user-images.githubusercontent.com/90531367/170649989-7b5757f3-4d8b-4c0b-b9a0-24a7a366a6e7.png)
+
 
