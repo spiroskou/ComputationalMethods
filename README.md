@@ -10,6 +10,7 @@ ExerciseGroup1: Mainly some basic linear algebra operations needed.
 ExerciseGroup2: Direct Solution Methods and Iterative Solution Methods
 
   Direct: LL Factorization (Cholesky), LU Factorization, CSR CSC COO operations, LL Factorization for matrices in Skyline format.
+  
   Iterative: Jacobi, GaussSeidel, ConjugateGradient. 
 
 Utilities: Some more linear algebra operations and printing functions.
