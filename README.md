@@ -18,4 +18,7 @@ Example: Test LL Factorization (a.k.a Cholesky Factorization)
 
 ![image](https://user-images.githubusercontent.com/90531367/170649727-f7fe0ceb-aa35-4e7b-934a-299d998115ee.png) ![image](https://user-images.githubusercontent.com/90531367/170650347-7bdf039c-913e-4819-ba79-01eb87daeaf7.png)
 
+If the two vectors are equal, CheckEqualArrays function prints "Method is correct".
+
+![image](https://user-images.githubusercontent.com/90531367/170651427-d8175e7f-8a10-4867-9b65-b24f7c63207e.png)
 
