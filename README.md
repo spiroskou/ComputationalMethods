@@ -1,4 +1,4 @@
-# Computational-Techniques-Solvers
+# ComputationalMethods
 This project is about the implementation of computational algorithms on large linear systems in order to significantly reduce the computational cost.
 It is part of a course I took in my master's degree in Computational Mechanics.
 The programming language used is C#.
