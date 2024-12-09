@@ -8,12 +8,7 @@ namespace CSharpExerciseGroups_spiroskou
     {
         static void Main(string[] args)
         {
-
             LL.TestSolveWithLL();
-                     
         }
-        
-            
-            
     }
 }

@@ -15,6 +15,7 @@ namespace CSharpExerciseGroups_spiroskou
                 Console.Write(" ");
             }
         }
+
         public static void ShowMatrix(double[,] matrix)
         {
             for (int i = 0; i < matrix.GetLength(0); i++)
@@ -27,6 +28,7 @@ namespace CSharpExerciseGroups_spiroskou
                 Console.WriteLine();
             }
         }
+
         public static void CheckEqualArrays(double[] x, double[] y) 
         {
             Debug.Assert(x.Length == y.Length);
@@ -36,11 +38,13 @@ namespace CSharpExerciseGroups_spiroskou
             }
             Console.WriteLine("Method is correct");
         }
+
         public static void CheckEqualScalars(double x, double y) 
         {
             Debug.Assert(x == y);
             Console.WriteLine("Method is correct");
         }
+
         public static void CheckEqualMatrices(double[,] x,double[,] y)
         {
             // MATRICES HAVE TO BE SAME SIZE
@@ -54,6 +58,7 @@ namespace CSharpExerciseGroups_spiroskou
             }
             Console.WriteLine("Method is correct");
         }
+
         public static double[,] MatrixMatrixFull(double[,] A, double[,] B)
         {
             Debug.Assert(A.GetLength(1) == B.GetLength(0));
@@ -75,6 +80,7 @@ namespace CSharpExerciseGroups_spiroskou
             return C;
             
         }
+
         public static double[,] TransposeMatrixFull(double[,] A)
         {
             double[,] C = new double[A.GetLength(0), A.GetLength(1)];
@@ -89,6 +95,7 @@ namespace CSharpExerciseGroups_spiroskou
             Console.WriteLine();
             return C;
         }
+
         public static double GetMaxArray(double[] x)
         {
             double max = 0;
@@ -101,6 +108,7 @@ namespace CSharpExerciseGroups_spiroskou
             }
             return max;
         }
+
         public static double[] MatVecMult(double[,] a, double[] x)
         {
 
